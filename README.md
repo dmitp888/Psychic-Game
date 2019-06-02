@@ -1,4 +1,4 @@
 # Psychic-Game
-couldn't figure out how to display all letters that user is entering, 
-, used a dialog window to show that the game is over
-"your guesses so far is replaced with current guess"
+Browser game  that features dynamically updated HTML and CSS powered by your JavaScript code.
+The app randomly picks a letter, and the user has to guess which letter the app chose.
+![alt text](psychic.png)
